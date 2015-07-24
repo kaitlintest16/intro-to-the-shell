@@ -15,4 +15,4 @@ Learning to use your command line is crucial to being a programmer. Your termina
 
 
 
-The easiest way to open a terminal is through Spotlight.
+The easiest way to open a terminal is through Spotlight by using COMMAND + SPACE, and typing "terminal".
